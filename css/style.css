@@ -1,0 +1,75 @@
+/* 
+
+Project Name: Bitcoin 
+Client: Bitcoin
+Author: Tasuku Itoh  
+Developed @ 10 min. in NYC
+
+*/
+
+html {
+	/* set up a background image */
+	
+	background: url('../images/bitcoin2.jpg') no-repeat;
+
+	
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+h1 {
+	font-size: 80px;
+	font-family: 'Ubuntu', sans-serif;
+	}
+
+h2 {
+	background: #FBD651;
+	border-radius: 35px;
+	padding: 10px;
+	color: black;
+	font-size: 24px;
+	font-family: 'Ubuntu', sans-serif;
+	}
+
+a {
+	color: #D69134;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Source Sans Pro', sans-serif;
+	}
+p {
+	color: white;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: 'Source Sans Pro', sans-serif;
+	}
+
+#container {
+	background: black;
+	width: 440px;
+	color: white;
+	padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
